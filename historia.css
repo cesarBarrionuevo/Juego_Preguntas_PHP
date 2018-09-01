@@ -1,0 +1,101 @@
+.cuatro{
+  background-image: url('work4.jpg');
+  background-size: cover;
+}
+
+
+.pregunta{
+  height: 400px;
+  width: 650px;
+  color: #FFFFFF;
+  background-color: #6ABE65;
+  margin-left: 27%;
+  margin-top: 9%;
+}
+
+.pr{
+  margin-left: 5%;
+  width: 580px;
+  height: 200px;
+  background-color: #3F813B;
+}
+
+.jug1{
+  height: 305px;
+  width: 170px;
+  background-color: #6ABE65;
+  color: #FFFFFF;
+  float: left;
+  margin-left: 7%;
+  margin-top: -25%;
+}
+
+.titJug{
+  height: 50px;
+  width: 150px;
+  margin: 5%;
+  background-color: #3F813B;
+  text-align: center;
+}
+
+.jugTit{
+  background-color: #FFFFFF;
+  color: #000000;
+  height: 50px;
+  width: 150px;
+  text-align: center;
+  margin: 5%;
+}
+
+h2{
+  padding-top: 10px;
+  margin-left: 5%;
+  margin-bottom: 10px;
+}
+
+p{
+  padding: 5%;
+  color: #FFFFFF;
+  font-size: 20px;
+}
+
+h3, h4{
+  padding-top: 20px;
+  font-size: 22px;
+}
+
+.jug2{
+  height: 305px;
+  width: 170px;
+  background-color: #6ABE65;
+  color: #FFFFFF;
+  float: right;
+  margin-right: 7%;
+  margin-top: -25%;
+}
+
+.boton3{
+  height: 50px;
+  width: 170px;
+  color: transparent;
+  background-color: transparent;
+  border-color: transparent;
+  cursor: default;
+}
+
+.respuesta{
+  border: none;
+  margin-top: 5%;
+  margin-left: 12%;
+  background-color: #FFFFFF;
+  height: 50px;
+  width: 200px;
+  color: #3F813B;
+}
+
+.losDos{
+  padding-top: 30px;
+  float: left;
+  margin-left: 50px;
+  margin-right: 30px;
+}

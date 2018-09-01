@@ -1,0 +1,107 @@
+.tres{
+  background-image: url('work3.jpg');
+  background-size: cover;
+}
+
+h2{
+  padding-top: 10px;
+  margin-left: 5%;
+  padding-bottom: 15px;
+}
+
+.titJug{
+  height: 40px;
+  width: 150px;
+  margin: 5%;
+  background-color: #FFC300;
+  text-align: center;
+}
+
+.jugTit{
+  background-color: #FFFFFF;
+  color: #000000;
+  height: 50px;
+  width: 150px;
+  text-align: center;
+  margin: 5%;
+}
+
+h3, h4{
+  padding-top: 20px;
+  font-size: 22px;
+}
+
+.pi{
+  font-size: 30px;
+  font-family: monospace;
+  float: left;
+  color: #FFFFFF;
+  margin-top: 2%;
+  margin-left: 10%;
+}
+
+.pi2{
+  margin-left: 39%;
+  margin-top: 3%;
+  width: 300px;
+  height: 70px;
+  background-color: #FF5733;
+}
+
+.resp{
+  float: left;
+  color: #FFFFFF;
+  margin-top: 2%;
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.jug1{
+  height: 315px;
+  width: 170px;
+  background-color: #FF5733;
+  color: #FFFFFF;
+  float: left;
+  margin-left: 7%;
+  margin-top: -25%;
+}
+
+.jug2{
+  height: 315px;
+  width: 170px;
+  background-color: #FF5733;
+  color: #FFFFFF;
+  float: right;
+  margin-right: 7%;
+  margin-top: -25%;
+}
+
+.conjunto{
+  margin-top: 3%;
+  margin-left: 28%;
+
+  height: 398px;
+  width: 597px;
+  border: 5px solid #000000;
+}
+
+.img1, .img2, .img3, .img4, .img5, .img6{
+  height: 195px;
+  width: 195px;
+  background-color: #E5FF7C;
+  border: 2px solid #000000;
+  float: left;
+
+}
+
+.imagenes{
+  height: 190px;
+  width: 190px;
+}
+
+.imagen{
+  height: 170px;
+  width: 170px;
+  margin-left: 5%;
+  margin-top: 5%;
+}
