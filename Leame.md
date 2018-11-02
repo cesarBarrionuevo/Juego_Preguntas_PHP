@@ -8,4 +8,4 @@ Lo unico que debes hacer es crear una Base de Datos con el nombre "quiz" y alli 
  
  Desde ya, espero que les guste y sepan apreciar el trabajo de chicos de 17 y 18 años. 
  
- Saludos.
+ Saludos..
