@@ -9,3 +9,5 @@ Lo unico que debes hacer es crear una Base de Datos con el nombre "quiz" y alli 
  Desde ya, espero que les guste y sepan apreciar el trabajo de chicos de 17 y 18 años. 
  
  Saludos.
+ 
+ Quiero decir que los juegos son para personas LELAS o que tienen alguna deficiencia en su pene.
